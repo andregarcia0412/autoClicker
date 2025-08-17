@@ -36,6 +36,3 @@ java -jar autoClicker.jar
 
 ## 📸 Screenshot
 <img alt="Application Screenshot" src="https://i.imgur.com/8OgN3jf.png">
-
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it.

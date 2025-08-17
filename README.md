@@ -36,3 +36,8 @@ java -jar autoClicker.jar
 
 ## 📸 Screenshot
 <img alt="Application Screenshot" src="https://i.imgur.com/8OgN3jf.png">
+
+## 💾 Downloads
+- [Download .exe](https://github.com/andregarcia0412/autoClicker/releases/download/v1.0.0/autoClicker.exe)
+- [Download .jar](https://github.com/andregarcia0412/autoClicker/releases/download/v1.0.0/autoClicker.jar)
+
